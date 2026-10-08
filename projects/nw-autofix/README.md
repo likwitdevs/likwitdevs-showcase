@@ -2,9 +2,25 @@
 
 > Client website · Private commercial project · Public case study
 
+## Project Type
+
+Client Website
+
+## Likwit Devs Contribution
+
+- Public-facing website restructure
+- Responsive layout and navigation
+- Service content organization
+- Customer-focused call and contact paths
+- Local search foundation
+- Technical stabilization and public launch support
+- Case-study documentation
+
+The client business, brand, and operations remain owned by the client.
+
 ## Short summary
 
-NW AutoFix is a modern auto-repair website rebuild focused on customer trust, mobile usability, service visibility, and local search structure.
+This case study documents Likwit Devs’ contribution to the NW AutoFix public website rebuild, with work focused on customer trust, mobile usability, service visibility, and local search structure.
 
 ## Problem solved
 
@@ -33,7 +49,7 @@ Hosting credentials, form routing, analytics, and implementation details remain 
 
 ## Business value
 
-The rebuild replaced an unreliable customer touchpoint with a secure, professional site that works across devices. Customers can review services and contact the shop with less friction, while the business has a stronger foundation for local search visibility.
+The public-facing rebuild replaced an unreliable customer touchpoint with a secure, professional site that works across devices. Customers can review services and contact the shop with less friction, while the business has a stronger foundation for local search visibility.
 
 ## Screenshots
 
@@ -62,4 +78,4 @@ No customer inquiries, analytics, account information, or private shop data will
 
 ## Suggested GitHub description
 
-> Case study: a secure, mobile-friendly auto-repair website rebuild with service and local SEO foundations. Production source is private.
+> Case study: Likwit Devs’ contribution to a secure, mobile-friendly auto-repair website rebuild with local SEO foundations.

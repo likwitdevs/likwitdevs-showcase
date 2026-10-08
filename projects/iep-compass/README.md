@@ -2,6 +2,19 @@
 
 > Owned education product · Private production system · Public case study
 
+## Project Type
+
+Owned Product / Private Product Development
+
+## Likwit Devs Contribution
+
+- Product concept and public-facing experience
+- Responsive application structure
+- Document-review and meeting-preparation interface
+- Plain-language report presentation
+- Public beta and launch support
+- Case-study documentation
+
 ## Short summary
 
 IEP Compass is an AI-assisted education product that helps parents understand their child’s Individualized Education Program and prepare more focused questions for school meetings.

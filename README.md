@@ -6,6 +6,10 @@ Likwit Devs builds custom websites and focused web applications for small busine
 
 This repository documents selected commercial and privately developed projects. It is designed to show the problems addressed, the capabilities delivered, and the business value of each project without publishing the production code behind them.
 
+## Client and collaborative work
+
+Some projects shown here were built as client or collaborative work. Each case study focuses on Likwit Devs’ contribution, public-facing outcomes, and business value while keeping private repositories, client data, and implementation details confidential.
+
 ## Selected projects
 
 | Project | Type | Case study | Live site |
@@ -13,7 +17,7 @@ This repository documents selected commercial and privately developed projects. 
 | IEP Compass | Owned education product | [View case study](projects/iep-compass/README.md) | [iep-compass.org](https://www.iep-compass.org/) |
 | Likwit Devs Site | Studio website | [View case study](projects/likwitdevs-site/README.md) | [likwitdevs.com](https://www.likwitdevs.com/) |
 | Live, Laugh, Love Counseling | Client website | [View case study](projects/live-laugh-love-counseling/README.md) | [livelaughlovecounsel.com](https://livelaughlovecounsel.com/) |
-| Forest Pathways | Client website | [View case study](projects/forest-pathways/README.md) | [forestpathways.me](https://forestpathways.me/) |
+| Forest Pathways | Client / collaborative website | [View case study](projects/forest-pathways/README.md) | [forestpathways.me](https://forestpathways.me/) |
 | NW AutoFix | Client website | [View case study](projects/nw-autofix/README.md) | [nwautofix.com](https://www.nwautofix.com/) |
 | Freva Construction | Client website | [View case study](projects/freva-construction/README.md) | [frevaconstructionllc.com](https://www.frevaconstructionllc.com/) |
 | Likwit Blvd | Owned creative storefront | [View case study](projects/likwit-blvd/README.md) | [likwitblvd.com](https://www.likwitblvd.com/) |

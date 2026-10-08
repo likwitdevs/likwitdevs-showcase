@@ -2,9 +2,26 @@
 
 > Client website · Private commercial project · Public case study
 
+## Project Type
+
+Client Website
+
+## Likwit Devs Contribution
+
+- Public-facing website structure
+- Responsive layout and navigation
+- Service and content organization
+- Project-gallery presentation
+- Conversion-focused inquiry path
+- Branding and visual direction support
+- Deployment and public launch support
+- Case-study documentation
+
+The client business, brand, and operations remain owned by the client.
+
 ## Short summary
 
-Freva Construction is a high-performance contractor website built to strengthen brand perception, showcase completed work, explain outdoor construction services, and generate qualified local inquiries.
+This case study documents Likwit Devs’ contribution to the public-facing Freva Construction website. The work focused on strengthening brand presentation, showcasing completed projects, explaining outdoor construction services, and supporting qualified local inquiries.
 
 ## Problem solved
 
@@ -33,7 +50,7 @@ Form-processing logic, client accounts, and infrastructure configuration remain 
 
 ## Business value
 
-The rebuilt site gives Freva Construction a more credible sales asset for referrals and local search visitors. Prospects can quickly evaluate services and workmanship, then move directly into an estimate conversation.
+The public-facing work gives Freva Construction a more credible sales asset for referrals and local search visitors. Prospects can quickly evaluate services and workmanship, then move directly into an estimate conversation.
 
 ## Screenshots
 
@@ -62,4 +79,4 @@ No customer inquiries, analytics, account details, or unpublished project inform
 
 ## Suggested GitHub description
 
-> Case study: a contractor website built to showcase outdoor construction work and generate local inquiries. Production source is private.
+> Case study: Likwit Devs’ contribution to a contractor website that showcases outdoor construction work and supports local inquiries.

@@ -2,37 +2,50 @@
 
 > Client website · Private commercial project · Public case study
 
+## Project Type
+
+Client Website
+
+## Likwit Devs Contribution
+
+- Public-facing website structure
+- Services presentation and content organization
+- Responsive design
+- Consultation request flow at a high level
+- Deployment and public launch support
+- Case-study documentation
+
+The client business, brand, and operations remain owned by the client.
+
 ## Short summary
 
-Live, Laugh, Love Counseling is a custom website for a counseling practice, designed to create a warm, professional first impression and make it easier for prospective clients to understand services and request a consultation.
+This case study documents Likwit Devs’ contribution to the public-facing website for Live, Laugh, Love Counseling. The work focused on a warm, professional presentation that helps prospective clients understand services and request a consultation.
 
 ## Problem solved
 
-Choosing a counselor is a trust-heavy decision. The practice needed a clear online presence that could explain its approach without overwhelming visitors, work well on mobile devices, and provide a straightforward path to make contact.
+Choosing a counselor is a trust-heavy decision. The project focused on presenting public service information clearly, supporting mobile visitors, and providing a straightforward path to request a consultation.
 
 ## Features built
 
 - Clear presentation of counseling services and practice information
 - Trust-focused page structure and visual design
 - Responsive layouts for mobile and desktop visitors
-- Consultation-request forms
-- Automated email acknowledgements
+- Public consultation-request flow
 - Search-friendly page structure and metadata
-- Connections to the practice’s public discovery channels
 
 ## Public-safe tech stack
 
 - Next.js website
 - Responsive component-based interface
 - Search metadata and indexation support
-- Secure form and email integrations
+- Public consultation-request interface
 - Managed production hosting
 
-Form-processing logic, service credentials, and operational routing remain private.
+Private systems and client information are not documented here.
 
 ## Business value
 
-The website gives the practice a professional destination for referrals and search visitors. Prospective clients can understand the available support, establish confidence in the practice, and take the next step without relying entirely on phone calls or social media messages.
+The public-facing work gives the practice a professional destination for referrals and search visitors. Prospective clients can understand the available support, establish confidence in the practice, and take the next step without relying entirely on phone calls or social media messages.
 
 ## Screenshots
 
@@ -54,11 +67,9 @@ No consultation submissions, email content, analytics, or private practice infor
 
 - Production source code and repository history
 - Consultation submissions and client communications
-- Form-processing and email-delivery logic
-- Administrative or account-management functionality
 - Analytics and internal business data
 - Environment variables, credentials, and deployment configuration
 
 ## Suggested GitHub description
 
-> Case study: a trust-focused counseling practice website built by Likwit Devs. Documentation only; production source is private.
+> Case study: Likwit Devs’ contribution to a trust-focused counseling practice website. Documentation only; production source is private.

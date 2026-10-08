@@ -2,6 +2,20 @@
 
 > Studio website · Private production system · Public case study
 
+## Project Type
+
+Internal / Agency Website
+
+## Likwit Devs Contribution
+
+- Public-facing website structure
+- Service, pricing, and portfolio organization
+- Responsive layout and navigation
+- Conversion-focused inquiry paths
+- Public project and testimonial presentation
+- Deployment and public launch support
+- Case-study documentation
+
 ## Short summary
 
 The Likwit Devs website presents the studio’s services, project work, pricing, reviews, and contact paths in one responsive, conversion-focused experience.

@@ -1,14 +1,30 @@
 # Forest Pathways
 
-> Client website · Private commercial project · Public case study
+> Client / collaborative website · Private commercial project · Public case study
+
+## Project Type
+
+Client / Collaborative Website
+
+## Likwit Devs Contribution
+
+- Public-facing website structure
+- Responsive layout and navigation
+- Service and process content organization
+- Oregon-focused search page structure
+- Branding and visual direction support
+- Deployment and public launch support
+- Case-study documentation
+
+This case study documents Likwit Devs’ contribution to the public-facing site. The client business, brand, and operations remain owned by the client.
 
 ## Short summary
 
-Forest Pathways is a conversion-focused website for a licensed psilocybin facilitator in Oregon, built to explain the client journey clearly, establish trust, and guide prospective clients toward a consultation.
+This case study documents public-facing website work contributed by Likwit Devs for Forest Pathways, a licensed psilocybin facilitator in Oregon. The work focused on explaining the client journey clearly, establishing trust, and guiding prospective clients toward a consultation.
 
 ## Problem solved
 
-Prospective clients need clear, responsible information before they feel comfortable beginning a facilitated wellness process. The existing online presence needed stronger structure, more professional presentation, and a better foundation for Oregon-focused search visibility.
+Prospective clients need clear, responsible information before they feel comfortable beginning a facilitated wellness process. The project involved strengthening the public site’s structure, presentation, and foundation for Oregon-focused search visibility.
 
 ## Features built
 
@@ -33,7 +49,7 @@ Client accounts, form routing, infrastructure configuration, and implementation 
 
 ## Business value
 
-The site gives Forest Pathways a professional place to educate prospective clients and build confidence in a sensitive, highly considered service. It also creates a stronger base for local discovery and future educational content.
+The public-facing work gives Forest Pathways a professional place to educate prospective clients and build confidence in a sensitive, highly considered service. It also creates a stronger base for local discovery and future educational content.
 
 ## Screenshots
 
@@ -62,4 +78,4 @@ No form submissions, analytics, client communications, or account information wi
 
 ## Suggested GitHub description
 
-> Case study: a trust-focused Oregon wellness website with clear service content and local SEO foundations. Production source is private.
+> Case study: Likwit Devs’ contribution to a trust-focused Oregon wellness website with clear service content and local SEO foundations.

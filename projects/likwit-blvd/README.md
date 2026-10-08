@@ -2,6 +2,20 @@
 
 > Owned creative brand · Private production system · Public case study
 
+## Project Type
+
+Owned Product / Brand Concept
+
+## Likwit Devs Contribution
+
+- Brand concept and public-facing direction
+- Portfolio and storefront structure
+- Responsive gallery experience
+- Artwork and collection organization
+- Commission inquiry path
+- Deployment and public launch support
+- Case-study documentation
+
 ## Short summary
 
 Likwit Blvd is an artist-run portfolio and storefront for airbrush artwork, tattoo work, custom commissions, and original products.
