@@ -21,6 +21,7 @@ Some projects shown here were built as client or collaborative work. Each case s
 | NW AutoFix | Client website | [View case study](projects/nw-autofix/README.md) | [nwautofix.com](https://www.nwautofix.com/) |
 | Freva Construction | Client website | [View case study](projects/freva-construction/README.md) | [frevaconstructionllc.com](https://www.frevaconstructionllc.com/) |
 | Likwit Blvd | Owned creative storefront | [View case study](projects/likwit-blvd/README.md) | [likwitblvd.com](https://www.likwitblvd.com/) |
+| PULSE | Owned executive-assistant product | [View case study](projects/likwit-pulse/README.md) | Local prototype |
 
 ## What this repository contains
 
